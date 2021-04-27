@@ -32,10 +32,11 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=P1r3s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gotham" alt="P1r3s" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=P1r3s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gotham" alt="P1r3s" />
 
 <!--
 **P1r3s/P1r3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
