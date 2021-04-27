@@ -4,13 +4,13 @@
   <img align="left" alt="Miguel Pires | Gmail" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/miguelrpires/">
-  <img align="left" alt="Miguel's LinkedIN" width="25px" rc="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/linkedin.svg" />
+  <img align="left" alt="Miguel's LinkedIN" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/miguel_p/">
-  <img align="left" alt="Miguel's Instagram" width="25px" rc="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/instagram.svg" />
+  <img align="left" alt="Miguel's Instagram" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/miguel.pix/">
-  <img align="left" alt="Miguel's Facebook" width="25px" rc="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/facebook.svg" />
+  <img align="left" alt="Miguel's Facebook" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/facebook.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=P1r3s.P1r3s)
