@@ -1,16 +1,16 @@
 ### Hi there, I'm Miguel Pires <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Miguel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="mailto:mrpires92@gmail.com">
   <img align="left" alt="Miguel Pires | Gmail" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/miguelrpires/">
-  <img align="left" alt="Miguel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Miguel's LinkedIN" width="25px" rc="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Miguel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.instagram.com/miguel_p/">
+  <img align="left" alt="Miguel's Instagram" width="25px" rc="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/miguel.pix/">
+  <img align="left" alt="Miguel's Facebook" width="25px" rc="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/facebook.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=P1r3s.P1r3s)
