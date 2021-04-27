@@ -1,15 +1,15 @@
 ### Hi there, I'm Miguel Pires <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="mailto:mrpires92@gmail.com">
+<a href="mailto:mrpires92@gmail.com" target="_blank">
   <img align="left" alt="Miguel Pires | Gmail" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/miguelrpires/">
+<a href="https://www.linkedin.com/in/miguelrpires/" target="_blank">
   <img align="left" alt="Miguel's LinkedIN" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/miguel_p/">
+<a href="https://www.instagram.com/miguel_p/" target="_blank">
   <img align="left" alt="Miguel's Instagram" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/miguel.pix/">
+<a href="https://www.facebook.com/miguel.pix/" target="_blank">
   <img align="left" alt="Miguel's Facebook" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/facebook.svg" />
 </a>
 
