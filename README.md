@@ -13,7 +13,7 @@
   <img align="left" alt="Miguel's Facebook" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/facebook.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=P1r3s.P1r3s)
+![](https://visitor-badge.glitch.me/badge?page_id=P1r3s.P1r3s)  
 
 <br />
 
@@ -39,10 +39,12 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=P1r3s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gotham" alt="P1r3s" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=P1r3s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gotham" alt="P1r3s" />  
 
 <!--
 **P1r3s/P1r3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
