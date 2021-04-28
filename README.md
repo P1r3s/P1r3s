@@ -1,6 +1,5 @@
 ### Hi there, I'm Miguel Pires <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div>
 <a href="mailto:mrpires92@gmail.com">
   <img align="left" alt="Miguel Pires | Gmail" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/gmail.svg" />
 </a>
@@ -12,8 +11,9 @@
 </a>
 <a href="https://www.facebook.com/miguel.pix/" target="_blank">
   <img align="left" alt="Miguel's Facebook" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/facebook.svg" />
-</a>
-</div>
+</a>  
+
+![](https://visitor-badge.glitch.me/badge?page_id=P1r3s.P1r3s)  
 
 <br />
 
