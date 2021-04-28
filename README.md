@@ -14,9 +14,9 @@
 </a>
 &nbsp;
 
-👨‍🎓 MSc in Informatics and Computing Engineering (year 4/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
-💻 Currently working as an Full Stack Developer @ [euPago](https://www.eupago.pt/)
-📍 Porto, Portugal
+👨‍🎓 MSc in Informatics and Computing Engineering (year 4/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)  
+💻 Currently working as an Full Stack Developer @ [euPago](https://www.eupago.pt/)  
+📍 Porto, Portugal  
 
 **Languages and Tools:**  
 
