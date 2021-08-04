@@ -13,9 +13,8 @@
   <img align="left" alt="Miguel's Facebook" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/facebook.svg" />
 </a>  
 
-![](https://visitor-badge.glitch.me/badge?page_id=P1r3s.P1r3s)  
-
-<br />
+<br/>
+<br/>
 
 👨‍🎓 MSc in Informatics and Computing Engineering (year 4/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)  
 💻 Currently working as an Full Stack Developer @ [euPago](https://www.eupago.pt/)  
