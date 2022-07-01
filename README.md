@@ -1,4 +1,4 @@
-### Hi there, I'm Miguel Pires <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Miguel Pires!
 
 <a href="mailto:mrpires92@gmail.com">
   <img align="left" alt="Miguel Pires | Gmail" width="25px" src="https://raw.githubusercontent.com/P1r3s/P1r3s/master/assets/gmail.svg" />
