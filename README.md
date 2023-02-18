@@ -17,7 +17,7 @@
 <br/>
 
 👨‍🎓 Software Engineer (BSc + MSc) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)  
-💻 Currently working as an Full Stack Developer @ [euPago](https://www.eupago.pt/)  
+💻 Currently working as a Frontend & DevOps Engineer @ [Critical Techworks | BMW Group](https://www.criticaltechworks.com/)  
 📍 Porto, Portugal  
 
 **Languages and Tools:**  
